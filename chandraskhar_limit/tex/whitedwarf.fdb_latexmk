@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex whitedwarf"] 1509675674 "whitedwarf.aux" "whitedwarf.bbl" "whitedwarf" 1509676517
+["bibtex whitedwarf"] 1509675674 "whitedwarf.aux" "whitedwarf.bbl" "whitedwarf" 1509680781
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/unsrt.bst" 1480098433 18030 1376b4b231b50c66211e47e42eda2875 ""
   "BibWhiteDwarf.bib" 1499346500 2296 befdd1bc0b53bd102406210d978390ac ""
-  "whitedwarf.aux" 1509676517 3402 cc338cff116b82d1f100fccfc4fc730f ""
+  "whitedwarf.aux" 1509680781 3402 cc338cff116b82d1f100fccfc4fc730f ""
   (generated)
   "whitedwarf.bbl"
   "whitedwarf.blg"
-["pdflatex"] 1509676516 "whitedwarf.tex" "whitedwarf.pdf" "whitedwarf" 1509676517
+["pdflatex"] 1509680781 "whitedwarf.tex" "whitedwarf.pdf" "whitedwarf" 1509680781
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1480098698 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1480098698 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -152,10 +152,10 @@
   "gammar.eps" 1498128025 10180 feddb9b6a5dc86ee33e639283a3f946b ""
   "mr1.eps" 1498123250 14552 f89d3ce76d381e0214e6f772713bdc7d ""
   "rho2.eps" 1498128803 32606 8d3a0d329f55c4c08a25f75434b93fee ""
-  "whitedwarf.aux" 1509676517 3402 cc338cff116b82d1f100fccfc4fc730f ""
+  "whitedwarf.aux" 1509680781 3402 cc338cff116b82d1f100fccfc4fc730f ""
   "whitedwarf.bbl" 1509675674 1719 b0844cf7f1054b85d2568a78b81051c0 "bibtex whitedwarf"
-  "whitedwarf.tex" 1509676516 25885 5b21a92cd024e9ebbb7607d92b789901 ""
+  "whitedwarf.tex" 1509680779 25861 32e7b151a9c5baf8c7462793b5d970b3 ""
   (generated)
+  "whitedwarf.aux"
   "whitedwarf.pdf"
   "whitedwarf.log"
-  "whitedwarf.aux"
